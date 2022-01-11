@@ -1,6 +1,5 @@
 # Web site deployment
 To display the site, go to chrome settings> Privacy and Security> Site settings> Non-secure content> Can display non-secure content> Add and enter the following link: https://alkemyong.netlify.app/
-The web site was deployed at next link: https://alkemyong.netlify.app/
 
 # login to the page as administrator or regular user
 User regular: email: user@user.com / password: user@1234
